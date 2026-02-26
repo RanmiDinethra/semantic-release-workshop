@@ -29,7 +29,7 @@ router.get('/:id', (req, res) => {
   const id = parseInt(req.params.id, 10);
 
   if (isNaN(id)) {
-    return res.status(400).json({ error: 'Invalid user ID. ID must be a number.' });
+    return res.status(400).json({ error: 'Invalid user ID. ID must be a number .' });
   }
 
   const user = users.find((u) => u.id === id);
