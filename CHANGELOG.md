@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/RanmiDinethra/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
+
+
+### Bug Fixes
+
+* **users:** improve error message for user not found ([d4b06cf](https://github.com/RanmiDinethra/semantic-release-workshop/commit/d4b06cfbe4d1372a978ad7be719185e5220ace95))
+
 # 1.0.0 (2026-02-26)
 
 
